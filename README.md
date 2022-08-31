@@ -1,2 +1,0 @@
-# upgraded-pancake
-Practice

@@ -46,6 +46,10 @@ input::placeholder {
     font-style: italic;
 }
 
+.radio, .checkbox {
+    vertical-align: middle;
+}
+
 select {
     height: 40px;
     border-radius: 5px;
